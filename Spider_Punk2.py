@@ -49,7 +49,7 @@ DEFAULT_UA = f'PunkSpiderSearch/{__version__}'
 LOG_FILE = 'punkspider_search.log'
 DEFAULT_RATE_LIMIT = 10  # Requests per minute
 MOCK_DATA = [
-    {'id': '1', 'timestamp': '2025-05-06T12:00:00', 'title': 'Test Page', 'url': 'https://bytecapsuleit.com',
+    {'id': '1', 'timestamp': '2025-05-06T12:00:00', 'title': 'Test Page', 'url': '',
      'bsqli': 0, 'sqli': 1, 'xss': 1}
 ]
 
